@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Wallet body outline & fill -->
+    <path
+        android:fillColor="#E0F2F1"
+        android:pathData="M30,36 C30,32.7 32.7,30 36,30 L72,30 C75.3,30 78,32.7 78,36 L78,70 C78,73.3 75.3,76 72,76 L36,76 C32.7,76 30,73.3 30,70 Z" />
+    <!-- Wallet flap accent -->
+    <path
+        android:fillColor="#80CBC4"
+        android:pathData="M30,30 L78,30 L78,42 C78,42 66,48 54,48 C42,48 30,42 30,42 Z" />
+    <!-- Center Rupee / Currency emblem in wallet -->
+    <path
+        android:fillColor="#004D40"
+        android:pathData="M48,50 L60,50 M48,55 L58,55 M52,50 L52,68 M52,55 C56,55 58,57 58,60 C58,63 55,64 52,64 M55,63 L61,70"
+        android:strokeColor="#004D40"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Emergency shield / star badge on top right -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M70,30 L78,30 L78,38 C78,44 70,48 70,48 C70,48 62,44 62,38 L62,30 L70,30 Z" />
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M70,33 L72,37 L76,37.5 L73,40 L74,44 L70,41.8 L66,44 L67,40 L64,37.5 L68,37 Z" />
+</vector>

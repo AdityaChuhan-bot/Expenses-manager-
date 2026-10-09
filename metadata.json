@@ -1,0 +1,6 @@
+{
+  "name": "PocketFlow",
+  "description": "Smart personal money manager built for irregular cash flow, emergency cash reserve protection, and safe daily spending.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
